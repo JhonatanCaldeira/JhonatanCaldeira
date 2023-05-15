@@ -4,8 +4,8 @@
 I'm Jhonatan Caldeira, a passionate back-end developer based in Aix-en-Provence, France. I have a background in telecommunication as developer and project manager. I enjoy exploring new technologies and creating innovative solutions.
 
 ## My Objectives
-- 🔭 I’m currently looking for start a new course in AI, and probably an Master degree after.
-- 🌱 I’m currently learning french language, IA and ML with Python by myself.
+- 🔭 I’m currently looking for start a new AI course, and probably an Master degree after.
+- 🌱 I’m currently learning french language, AI and ML with Python by myself.
 - 👯 I’m looking to collaborate on projects related with Astronomy, Telecommunication, Health and Environment.
 
 ## My Hobbies
