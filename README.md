@@ -1,19 +1,19 @@
-# Welcome to My GitHub Profile!
+# Hi there! 👋
 
 ## Who am I
-<!--
-[Insert a brief introduction about yourself and your background. You can mention your profession, interests, or any other relevant information that describes you.]
--->
+I'm Jhonatan Caldeira, a passionate back-end developer based in Aix-en-Provence, France. I have a background in telecommunication as developer and project manager. I enjoy exploring new technologies and creating innovative solutions.
 
 ## My Objectives
-<!--
-[Describe your goals and objectives for your GitHub journey. You can mention the programming languages, frameworks, or projects you are interested in. Be specific about what you want to achieve and how you plan to contribute to the developer community.]
--->
+- 🔭 I’m currently looking for start a new course in AI, and probably an Master degree after.
+- 🌱 I’m currently learning french language, IA and ML with Python by myself.
+- 👯 I’m looking to collaborate on projects related with Astronomy, Telecommunication, Health and Environment.
 
 ## My Hobbies
-<!--
-[Share your hobbies and interests outside of coding. This section is a great way to show your personality and connect with others who share similar interests. Feel free to mention activities, sports, books, movies, or anything else that you enjoy doing in your free time.]
--->
+In my free time, I like to engage in various hobbies, including:
+
+- **Play Board Games**: I really appreciate this moment with my family and friends playing games like Carcassone and Zombicide.
+- **Astronomy**: It's a old love. I always look to the sky thinking in the imaginable. I try to keep up with news and documentaries.
+- **American Football**: I’m a fan of the Baltimore Ravens! I love this sport and all the techniques behind it.
 
 ## GitHub Status
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JhonatanCaldeira&show_icons=true&theme=radical)
@@ -21,8 +21,12 @@
 ## GitHub Streak
 ![Your GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JhonatanCaldeira&theme=dark)
 
+I'm always open to interesting discussions and collaboration opportunities. Feel free to reach out!
+
+<!--
 ## GitHub Skyline
 ![Your GitHub Skyline](https://skyline.github.com/JhonatanCaldeira/2022)
+-->
 
 
 
