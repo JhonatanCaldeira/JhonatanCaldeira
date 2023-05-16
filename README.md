@@ -15,6 +15,10 @@ In my free time, I like to engage in various hobbies, including:
 - **Astronomy**: It's a old love. I always look to the sky thinking in the imaginable. I try to keep up with news and documentaries.
 - **American Football**: I’m a fan of the Baltimore Ravens! I love this sport and all the techniques behind it.
 
+## Top Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonatancaldeira&show_icons=true&locale=en&layout=compact" alt="jhonatancaldeira" />
+
+
 ## GitHub Status
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JhonatanCaldeira&show_icons=true&theme=radical)
 
