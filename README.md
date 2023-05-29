@@ -20,7 +20,7 @@ In my free time, I like to engage in various hobbies, including:
 
 
 ## GitHub Status
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JhonatanCaldeira&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JhonatanCaldeira&show_icons=true&theme=radical)
 
 ## GitHub Streak
 ![Your GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JhonatanCaldeira&theme=dark)
