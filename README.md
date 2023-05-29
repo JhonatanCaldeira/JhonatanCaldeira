@@ -16,7 +16,7 @@ In my free time, I like to engage in various hobbies, including:
 - **American Football**: I’m a fan of the Baltimore Ravens! I love this sport and all the techniques behind it.
 
 ## Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonatancaldeira&show_icons=true&locale=en&layout=compact" alt="jhonatancaldeira" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=jhonatancaldeira&show_icons=true&locale=en&layout=compact" alt="jhonatancaldeira" />
 
 
 ## GitHub Status
